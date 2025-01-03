@@ -2,6 +2,13 @@
 
 A graphical user interface for the Docling document processing tool, built with PyQt6. This application provides a user-friendly way to process various document formats using Docling.
 
+![GUI](https://github.com/user-attachments/assets/4041adf2-c6ac-4b66-a025-c58433a783eb)
+
+![Markdown Table](https://github.com/user-attachments/assets/1c489478-db74-436d-a307-806989a98623)
+
+![pdftable](https://github.com/user-attachments/assets/3ec9ff94-11d6-470b-b6c9-e56bdb7d5a2c)
+
+
 ## Features
 
 - Process multiple document types (PDF, DOCX, PPTX, HTML, XLSX, MD, TXT)
